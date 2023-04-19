@@ -1,8 +1,8 @@
 import React from "react";
-import whoseHouse from "./houses/whoseHouse";
+import house from "./houses/whoseHouse";
 
 function Hogwarts(){
-    whoseHouse()
+    house()
     return <h1>Welcome to Hogwarts</h1>
 }
 export default Hogwarts
